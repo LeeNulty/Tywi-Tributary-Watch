@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://leenulty.github.io/Tywi-Tributary-Watch/sitemap.xml
